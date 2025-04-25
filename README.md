@@ -83,3 +83,12 @@ pip freeze > requirements.txt
 ## 📬 Questions?
 
 Feel free to open an issue or reach out if you encounter any problems. Enjoy building with AI! 🤖✨
+
+---
+
+## 📄 License
+
+This project is dual-licensed under the terms of the MIT License and the Apache License 2.0.
+You may choose either license to govern your use of this software.
+
+See the [LICENSE](./LICENSE) file for details.
