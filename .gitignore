@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+*.env
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
+
+
+backend/tts_service/tts-models/
+backend/stt_service/huggingface_cache/
+backend/image_service/huggingface_cache/
+backend/coqui-ai-TTS/
